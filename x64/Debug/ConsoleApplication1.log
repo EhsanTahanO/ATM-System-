@@ -1,4 +1,0 @@
-﻿  ConsoleApplication1.cpp
-E:\Trains\Project-ATM-8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-E:\Trains\Project-ATM-8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(201,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
-  ConsoleApplication1.vcxproj -> E:\Trains\Project-ATM-8\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
