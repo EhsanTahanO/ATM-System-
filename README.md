@@ -44,5 +44,3 @@ ATM-System-/
 - Admin panel
 - Unit tests
 
-## Author
-- GitHub: [@EhsanTahanO](https://github.com/EhsanTahanO)
