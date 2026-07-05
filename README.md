@@ -12,16 +12,12 @@ A simple ATM console application built with C++ that simulates basic banking ope
 
 ## Project Structure
 ```text
-ATM-System-/
-├─ src/
-│  ├─ main.cpp
-│  ├─ ATM.cpp
-│  └─ Client.cpp
-├─ include/
-│  ├─ ATM.h
-│  └─ Client.h
-├─ ConsoleApplication1.sln
-└─ README.md
+ .gitignore
+    Clients.txt
+    ConsoleApplication1.cpp
+    ConsoleApplication1.vcxproj
+    ConsoleApplication1.vcxproj.filters
+    README.md
 ```
 
 > If your current project is still in one `.cpp` file, that’s okay. You can refactor gradually.
